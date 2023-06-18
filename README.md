@@ -1,6 +1,6 @@
 <h1>This is Facebbok login clone created using Next.js anf tailwind utility</h1>
 <p>It is just a simple experiment for me learning to use next and tailwind</p>
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+  <br>
 Live Netlify Demo :https://chatbook-login-facebookloginclone.netlify.app/
 ## Getting Started
 
